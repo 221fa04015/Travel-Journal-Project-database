@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "66effdeeb5df068768c73c02"
+  },
+  "journey_id": "66effa31b5df068768c73bf8",
+  "accomodation_id": "66f0038fb5df068768c73c0c",
+  "transportation_id": "66f006e7df6c7d9c61c73bf8"
+},
+{
+  "_id": {
+    "$oid": "66f00006b5df068768c73c03"
+  },
+  "journey_id": "66effad3b5df068768c73bf9",
+  "accomodation_id": "66f00413b5df068768c73c0d",
+  "transportation_id": "66f006fadf6c7d9c61c73bf9"
+},
+{
+  "_id": {
+    "$oid": "66f0003fb5df068768c73c04"
+  },
+  "journey_id": "66effb24b5df068768c73bfa",
+  "accomodation_id": "66f0042bb5df068768c73c0e",
+  "transportation_id": "66f0074cdf6c7d9c61c73bfa"
+},
+{
+  "_id": {
+    "$oid": "66f00074b5df068768c73c05"
+  },
+  "journey_id": "66effb44b5df068768c73bfb",
+  "accomodation_id": "66f0046db5df068768c73c0f",
+  "transportation_id": "66f00761df6c7d9c61c73bfb"
+},
+{
+  "_id": {
+    "$oid": "66f00133b5df068768c73c06"
+  },
+  "journey_id": "66effb76b5df068768c73bfc",
+  "accomodation_id": "66f004acb5df068768c73c10",
+  "transportation_id": "66f007ccdf6c7d9c61c73bfc"
+},
+{
+  "_id": {
+    "$oid": "66f0016eb5df068768c73c07"
+  },
+  "journey_id": "66effb9db5df068768c73bfd",
+  "accomodation_id": "66f004cdb5df068768c73c11",
+  "transportation_id": "66f007e3df6c7d9c61c73bfd"
+},
+{
+  "_id": {
+    "$oid": "66f0019fb5df068768c73c08"
+  },
+  "journey_id": "66effbd9b5df068768c73bfe",
+  "accomodation_id": "66f004e0b5df068768c73c12",
+  "transportation_id": "66f007f6df6c7d9c61c73bfe"
+},
+{
+  "_id": {
+    "$oid": "66f001cfb5df068768c73c09"
+  },
+  "journey_id": "66effca4b5df068768c73bff",
+  "accomodation_id": "66f004f6b5df068768c73c13",
+  "transportation_id": "66f0080bdf6c7d9c61c73bff"
+},
+{
+  "_id": {
+    "$oid": "66f001f4b5df068768c73c0a"
+  },
+  "journey_id": "66effcb9b5df068768c73c00",
+  "accomodation_id": "66f0059bb5df068768c73c14",
+  "transportation_id": "66f00822df6c7d9c61c73c00"
+},
+{
+  "_id": {
+    "$oid": "66f00227b5df068768c73c0b"
+  },
+  "journey_id": "66effcdfb5df068768c73c01",
+  "accomodation_id": "66f005b5b5df068768c73c15",
+  "transportation_id": "66f00835df6c7d9c61c73c01"
+}]

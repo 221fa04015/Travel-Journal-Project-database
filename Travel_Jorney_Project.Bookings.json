@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "66f021a0df6c7d9c61c73c0c"
+  },
+  "user_id": "66eff56a8102cb765bc67177",
+  "accomodation_booking_ids": [
+    "66f0038fb5df068768c73c0c",
+    "66f0038fb5df068768c73c0c"
+  ],
+  "transportation_booking_ids": [
+    "66f006e7df6c7d9c61c73bf8",
+    "66f006fadf6c7d9c61c73bf9"
+  ],
+  "booking_date": {
+    "$date": "2024-09-22T13:54:40.559Z"
+  },
+  "total_price": "2800"
+},
+{
+  "_id": {
+    "$oid": "66f028d7df6c7d9c61c73c0d"
+  },
+  "user_id": "66eff5f88102cb765bc67179",
+  "accomodation_booking_ids": [
+    "66f00413b5df068768c73c0d",
+    "66f0042bb5df068768c73c0e"
+  ],
+  "transportation_booking_ids": [
+    "66f006fadf6c7d9c61c73bf9",
+    "66f0074cdf6c7d9c61c73bfa"
+  ],
+  "booking_date": {
+    "$date": "2024-09-22T14:25:27.282Z"
+  },
+  "total_price": "2200"
+},
+{
+  "_id": {
+    "$oid": "66f0294fdf6c7d9c61c73c0e"
+  },
+  "user_id": "66eff6988102cb765bc6717c",
+  "accomodation_booking_ids": [
+    "66f00413b5df068768c73c0d",
+    "66f0042bb5df068768c73c0e"
+  ],
+  "transportation_booking_ids": [
+    "66f0074cdf6c7d9c61c73bfa",
+    "66f00761df6c7d9c61c73bfb"
+  ],
+  "booking_date": {
+    "$date": "2024-09-22T14:27:27.757Z"
+  },
+  "total_price": "2300"
+},
+{
+  "_id": {
+    "$oid": "66f029b2df6c7d9c61c73c0f"
+  },
+  "user_id": "66eff6318102cb765bc6717a",
+  "accomodation_booking_ids": [
+    "66f0042bb5df068768c73c0e",
+    "66f0046db5df068768c73c0f"
+  ],
+  "transportation_booking_ids": [
+    "66f00761df6c7d9c61c73bfb",
+    "66f007ccdf6c7d9c61c73bfc"
+  ],
+  "booking_date": {
+    "$date": "2024-09-22T14:29:06.119Z"
+  },
+  "total_price": "1500"
+},
+{
+  "_id": {
+    "$oid": "66f02a23df6c7d9c61c73c10"
+  },
+  "user_id": "66eff6698102cb765bc6717b",
+  "accomodation_booking_ids": [
+    "66f0046db5df068768c73c0f",
+    "66f004acb5df068768c73c10"
+  ],
+  "transportation_booking_ids": [
+    "66f007ccdf6c7d9c61c73bfc",
+    "66f007e3df6c7d9c61c73bfd"
+  ],
+  "booking_date": {
+    "$date": "2024-09-22T14:30:59.589Z"
+  },
+  "total_price": "2500"
+},
+{
+  "_id": {
+    "$oid": "66f02a88df6c7d9c61c73c11"
+  },
+  "user_id": "66eff6c98102cb765bc6717d",
+  "accomodation_booking_ids": [
+    "66f004acb5df068768c73c10",
+    "66f004cdb5df068768c73c11"
+  ],
+  "transportation_booking_ids": [
+    "66f007e3df6c7d9c61c73bfd",
+    "66f007f6df6c7d9c61c73bfe"
+  ],
+  "booking_date": {
+    "$date": "2024-09-22T14:32:40.685Z"
+  },
+  "total_price": "5000"
+},
+{
+  "_id": {
+    "$oid": "66f02b1bdf6c7d9c61c73c12"
+  },
+  "user_id": "66eff70d8102cb765bc6717e",
+  "accomodation_booking_ids": [
+    "66f004cdb5df068768c73c11",
+    "66f004e0b5df068768c73c12"
+  ],
+  "transportation_booking_ids": [
+    "66f007f6df6c7d9c61c73bfe",
+    "66f0080bdf6c7d9c61c73bff"
+  ],
+  "booking_date": {
+    "$date": "2024-09-22T14:35:07.132Z"
+  },
+  "total_price": "3000"
+},
+{
+  "_id": {
+    "$oid": "66f02b89df6c7d9c61c73c13"
+  },
+  "user_id": "66eff7658102cb765bc67180",
+  "accomodation_booking_ids": [
+    "66f004e0b5df068768c73c12",
+    "66f0059bb5df068768c73c14"
+  ],
+  "transportation_booking_ids": [
+    "66f0080bdf6c7d9c61c73bff",
+    "66f00822df6c7d9c61c73c00"
+  ],
+  "booking_date": {
+    "$date": "2024-09-22T14:36:57.475Z"
+  },
+  "totla_price": "2400"
+},
+{
+  "_id": {
+    "$oid": "66f02bafdf6c7d9c61c73c14"
+  },
+  "user_id": "66eff7928102cb765bc67181",
+  "accomodation_booking_ids": [
+    "66f004e0b5df068768c73c12",
+    "66f0059bb5df068768c73c14"
+  ],
+  "transportation_booking_ids": [
+    "66f0080bdf6c7d9c61c73bff",
+    "66f00822df6c7d9c61c73c00"
+  ],
+  "booking_date": {
+    "$date": "2024-09-22T14:37:35.936Z"
+  },
+  "total_price": "2900"
+},
+{
+  "_id": {
+    "$oid": "66f02be7df6c7d9c61c73c15"
+  },
+  "user_id": "66effc458102cb765bc6718c",
+  "accomodation_booking_ids": [
+    "66f004cdb5df068768c73c11",
+    "66f00835df6c7d9c61c73c01"
+  ],
+  "transportation_booking_ids": [
+    "66f007f6df6c7d9c61c73bfe",
+    "66f005b5b5df068768c73c15"
+  ],
+  "booking_date": {
+    "$date": "2024-09-22T14:38:31.768Z"
+  },
+  "total_price": "1950"
+}]

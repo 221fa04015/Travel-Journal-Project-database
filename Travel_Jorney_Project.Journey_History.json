@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "66effa31b5df068768c73bf8"
+  },
+  "user_id": "66eff56a8102cb765bc67177",
+  "trip_id": "66effdeeb5df068768c73c02",
+  "source": {
+    "city": "Tenali",
+    "coordinates": {
+      "latitude": 16.2426,
+      "longitude": 80.64
+    }
+  },
+  "destination": {
+    "city": "New York",
+    "coordinates": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "date": "2024-09-22T11:06:25.969+00:00"
+},
+{
+  "_id": {
+    "$oid": "66effad3b5df068768c73bf9"
+  },
+  "user_id": "66eff56a8102cb765bc67177",
+  "trip_id": "66effdeeb5df068768c73c02",
+  "source": {
+    "city": "guntur",
+    "coordinates": {
+      "latitude": 16.2426,
+      "longitude": 80.64
+    }
+  },
+  "destination": {
+    "city": "Paris",
+    "coordinates": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "date": "2024-09-22T11:06:25.969+00:00"
+},
+{
+  "_id": {
+    "$oid": "66effb24b5df068768c73bfa"
+  },
+  "user_id": "66eff56a8102cb765bc67177",
+  "trip_id": "66effdeeb5df068768c73c02",
+  "source": {
+    "city": "guntur",
+    "coordinates": {
+      "latitude": 16.2426,
+      "longitude": 80.64
+    }
+  },
+  "destination": {
+    "city": "Europe",
+    "coordinates": {
+      "latitude": 50.7198,
+      "longitude": -75.506
+    }
+  },
+  "date": "2024-09-22T11:06:25.969+00:00"
+},
+{
+  "_id": {
+    "$oid": "66effb44b5df068768c73bfb"
+  },
+  "user_id": "66eff56a8102cb765bc67177",
+  "trip_id": "66effdeeb5df068768c73c02",
+  "source": {
+    "city": "guntur",
+    "coordinates": {
+      "latitude": 16.2426,
+      "longitude": 80.64
+    }
+  },
+  "destination": {
+    "city": "Europe",
+    "coordinates": {
+      "latitude": 50.7198,
+      "longitude": -75.506
+    }
+  },
+  "date": "2024-09-22T11:06:25.969+00:00"
+},
+{
+  "_id": {
+    "$oid": "66effb76b5df068768c73bfc"
+  },
+  "user_id": "66eff56a8102cb765bc67177",
+  "trip_id": "66effdeeb5df068768c73c02",
+  "source": {
+    "city": "guntur",
+    "coordinates": {
+      "latitude": 16.2426,
+      "longitude": 80.64
+    }
+  },
+  "destination": {
+    "city": "Europe",
+    "coordinates": {
+      "latitude": 50.7198,
+      "longitude": -75.506
+    }
+  },
+  "date": "2024-09-22T11:06:25.969+00:00"
+},
+{
+  "_id": {
+    "$oid": "66effb9db5df068768c73bfd"
+  },
+  "user_id": "66eff56a8102cb765bc67177",
+  "trip_id": "66effdeeb5df068768c73c02",
+  "source": {
+    "city": "guntur",
+    "coordinates": {
+      "latitude": 16.2426,
+      "longitude": 80.64
+    }
+  },
+  "destination": {
+    "city": "Europe",
+    "coordinates": {
+      "latitude": 50.7198,
+      "longitude": -75.506
+    }
+  },
+  "date": "2024-09-22T11:06:25.969+00:00"
+},
+{
+  "_id": {
+    "$oid": "66effbd9b5df068768c73bfe"
+  },
+  "user_id": "66eff56a8102cb765bc67177",
+  "trip_id": "66effdeeb5df068768c73c02",
+  "source": {
+    "city": "guntur",
+    "coordinates": {
+      "latitude": 16.2426,
+      "longitude": 80.64
+    }
+  },
+  "destination": {
+    "city": "Europe",
+    "coordinates": {
+      "latitude": 50.7198,
+      "longitude": -75.506
+    }
+  },
+  "date": "2024-09-22T11:06:25.969+00:00"
+},
+{
+  "_id": {
+    "$oid": "66effca4b5df068768c73bff"
+  },
+  "user_id": "66eff56a8102cb765bc67177",
+  "trip_id": "66effdeeb5df068768c73c02",
+  "source": {
+    "city": "guntur",
+    "coordinates": {
+      "latitude": 16.2426,
+      "longitude": 80.64
+    }
+  },
+  "destination": {
+    "city": "Europe",
+    "coordinates": {
+      "latitude": 50.7198,
+      "longitude": -75.506
+    }
+  },
+  "date": "2024-09-22T11:06:25.969+00:00"
+},
+{
+  "_id": {
+    "$oid": "66effcb9b5df068768c73c00"
+  },
+  "user_id": "66eff56a8102cb765bc67177",
+  "trip_id": "66effdeeb5df068768c73c02",
+  "source": {
+    "city": "guntur",
+    "coordinates": {
+      "latitude": 16.2426,
+      "longitude": 80.64
+    }
+  },
+  "destination": {
+    "city": "Europe",
+    "coordinates": {
+      "latitude": 50.7198,
+      "longitude": -75.506
+    }
+  },
+  "date": "2024-09-22T11:06:25.969+00:00"
+},
+{
+  "_id": {
+    "$oid": "66effcdfb5df068768c73c01"
+  },
+  "user_id": "66eff56a8102cb765bc67177",
+  "trip_id": "66effdeeb5df068768c73c02",
+  "source": {
+    "city": "guntur",
+    "coordinates": {
+      "latitude": 16.2426,
+      "longitude": 80.64
+    }
+  },
+  "destination": {
+    "city": "Europe",
+    "coordinates": {
+      "latitude": 50.7198,
+      "longitude": -75.506
+    }
+  },
+  "date": "2024-09-22T11:06:25.969+00:00"
+}]

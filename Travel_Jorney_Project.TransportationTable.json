@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "66f006e7df6c7d9c61c73bf8"
+  },
+  "trip_id": "66effdeeb5df068768c73c02",
+  "transport_type": "Flight",
+  "booking_date": {
+    "$date": "2024-09-22T12:00:39.576Z"
+  },
+  "price": 900
+},
+{
+  "_id": {
+    "$oid": "66f006fadf6c7d9c61c73bf9"
+  },
+  "trip_id": "66f00006b5df068768c73c03",
+  "transport_type": "Flight",
+  "booking_date": {
+    "$date": "2024-09-22T12:00:58.505Z"
+  },
+  "price": 900
+},
+{
+  "_id": {
+    "$oid": "66f0074cdf6c7d9c61c73bfa"
+  },
+  "trip_id": "66f0003fb5df068768c73c04",
+  "transport_type": "Bus",
+  "booking_date": {
+    "$date": "2024-09-22T12:02:20.400Z"
+  },
+  "price": 500
+},
+{
+  "_id": {
+    "$oid": "66f00761df6c7d9c61c73bfb"
+  },
+  "trip_id": "66f00074b5df068768c73c05",
+  "transport_type": "Flight",
+  "booking_date": {
+    "$date": "2024-09-22T12:02:41.981Z"
+  },
+  "price": 900
+},
+{
+  "_id": {
+    "$oid": "66f007ccdf6c7d9c61c73bfc"
+  },
+  "trip_id": "66f00133b5df068768c73c06",
+  "transport_type": "Trian",
+  "booking_date": {
+    "$date": "2024-09-22T12:04:28.304Z"
+  },
+  "price": 900
+},
+{
+  "_id": {
+    "$oid": "66f007e3df6c7d9c61c73bfd"
+  },
+  "trip_id": "66f0016eb5df068768c73c07",
+  "transport_type": "Trian",
+  "booking_date": {
+    "$date": "2024-09-22T12:04:51.331Z"
+  },
+  "price": 900
+},
+{
+  "_id": {
+    "$oid": "66f007f6df6c7d9c61c73bfe"
+  },
+  "trip_id": "66f0019fb5df068768c73c08",
+  "transport_type": "Flight",
+  "booking_date": {
+    "$date": "2024-09-22T12:05:10.252Z"
+  },
+  "price": 900
+},
+{
+  "_id": {
+    "$oid": "66f0080bdf6c7d9c61c73bff"
+  },
+  "trip_id": "66f001cfb5df068768c73c09",
+  "transport_type": "Bus",
+  "booking_date": {
+    "$date": "2024-09-22T12:05:31.344Z"
+  },
+  "price": 500
+},
+{
+  "_id": {
+    "$oid": "66f00822df6c7d9c61c73c00"
+  },
+  "trip_id": "66f001f4b5df068768c73c0a",
+  "transport_type": "Trian",
+  "booking_date": {
+    "$date": "2024-09-22T12:05:54.579Z"
+  },
+  "price": 900
+},
+{
+  "_id": {
+    "$oid": "66f00835df6c7d9c61c73c01"
+  },
+  "trip_id": "66f00227b5df068768c73c0b",
+  "transport_type": "Bus",
+  "booking_date": {
+    "$date": "2024-09-22T12:06:13.374Z"
+  },
+  "price": 500
+}]

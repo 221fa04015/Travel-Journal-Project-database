@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "66f0038fb5df068768c73c0c"
+  },
+  "trip_id": "66effdeeb5df068768c73c02",
+  "hotel_name": "Hilton",
+  "checkin_date": {
+    "$date": "2024-09-22T11:46:23.175Z"
+  },
+  "checkout_date": {
+    "$date": "2024-09-22T11:46:23.175Z"
+  },
+  "price": 500
+},
+{
+  "_id": {
+    "$oid": "66f00413b5df068768c73c0d"
+  },
+  "trip_id": "66f00006b5df068768c73c03",
+  "hotel_name": "Padma Resort",
+  "checkin_date": {
+    "$date": "2024-09-22T11:48:35.262Z"
+  },
+  "checkout_date": {
+    "$date": "2024-09-22T11:48:35.262Z"
+  },
+  "price": 500
+},
+{
+  "_id": {
+    "$oid": "66f0042bb5df068768c73c0e"
+  },
+  "trip_id": "66f0003fb5df068768c73c04",
+  "hotel_name": "Padma Resort",
+  "checkin_date": {
+    "$date": "2024-09-22T11:48:59.781Z"
+  },
+  "checkout_date": {
+    "$date": "2024-09-22T11:48:59.781Z"
+  },
+  "price": 500
+},
+{
+  "_id": {
+    "$oid": "66f0046db5df068768c73c0f"
+  },
+  "trip_id": "66f00074b5df068768c73c05",
+  "hotel_name": "Hilton",
+  "checkin_date": {
+    "$date": "2024-09-22T11:50:05.410Z"
+  },
+  "checkout_date": {
+    "$date": "2024-09-22T11:50:05.410Z"
+  },
+  "price": 900
+},
+{
+  "_id": {
+    "$oid": "66f004acb5df068768c73c10"
+  },
+  "trip_id": "66f00133b5df068768c73c06",
+  "hotel_name": "Mandarin Oriental",
+  "checkin_date": {
+    "$date": "2024-09-22T11:51:08.688Z"
+  },
+  "checkout_date": {
+    "$date": "2024-09-22T11:51:08.688Z"
+  },
+  "price": 700
+},
+{
+  "_id": {
+    "$oid": "66f004cdb5df068768c73c11"
+  },
+  "trip_id": "66f0016eb5df068768c73c07",
+  "hotel_name": "Mandarin Oriental",
+  "checkin_date": {
+    "$date": "2024-09-22T11:51:41.424Z"
+  },
+  "checkout_date": {
+    "$date": "2024-09-22T11:51:41.424Z"
+  },
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "66f004e0b5df068768c73c12"
+  },
+  "trip_id": "66f0019fb5df068768c73c08",
+  "hotel_name": "Mandarin Oriental",
+  "checkin_date": {
+    "$date": "2024-09-22T11:52:00.302Z"
+  },
+  "checkout_date": {
+    "$date": "2024-09-22T11:52:00.302Z"
+  },
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "66f004f6b5df068768c73c13"
+  },
+  "trip_id": "66f001cfb5df068768c73c09",
+  "hotel_name": "Hilton",
+  "checkin_date": {
+    "$date": "2024-09-22T11:52:22.002Z"
+  },
+  "checkout_date": {
+    "$date": "2024-09-22T11:52:22.002Z"
+  },
+  "price": 900
+},
+{
+  "_id": {
+    "$oid": "66f0059bb5df068768c73c14"
+  },
+  "trip_id": "66f001f4b5df068768c73c0a",
+  "hotel_name": "Padma Resort",
+  "checkin_date": {
+    "$date": "2024-09-22T11:55:07.955Z"
+  },
+  "checkout_date": {
+    "$date": "2024-09-22T11:55:07.955Z"
+  },
+  "price": 500
+},
+{
+  "_id": {
+    "$oid": "66f005b5b5df068768c73c15"
+  },
+  "trip_id": "66f00227b5df068768c73c0b",
+  "hotel_name": "Padma Resort",
+  "checkin_date": {
+    "$date": "2024-09-22T11:55:33.050Z"
+  },
+  "checkout_date": {
+    "$date": "2024-09-22T11:55:33.050Z"
+  },
+  "price": 500
+}]
